@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bitflex-dashboard/static/css/main.d40ec4d7.css",
+    "main.js": "/bitflex-dashboard/static/js/main.be2f1e5d.js",
+    "index.html": "/bitflex-dashboard/index.html",
+    "main.d40ec4d7.css.map": "/bitflex-dashboard/static/css/main.d40ec4d7.css.map",
+    "main.be2f1e5d.js.map": "/bitflex-dashboard/static/js/main.be2f1e5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d40ec4d7.css",
+    "static/js/main.be2f1e5d.js"
+  ]
+}
