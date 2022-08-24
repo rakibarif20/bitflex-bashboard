@@ -3,15 +3,15 @@ import React from 'react'
 import loginLogo from '../../images/loginLogo.png';
 import loginText from '../../images/loginWhiteText.png';
 
-
+import './style.scss';
 
 const Login = () => {
   return (
-    <section className='login'>
+    <section className='login' id='login'>
         <div className='login__logoArea'>
             <a href='#'>
-                <img src={loginLogo} alt='' />
-                <img src={loginText} alt='' />
+                <img src={loginLogo} alt='login logo' />
+                <img src={loginText} alt='login text' />
             </a>
         </div>
         <div className='login__formArea'>
